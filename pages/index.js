@@ -2,7 +2,7 @@ import Head from 'next/head'
 import { useMemo, useState } from 'react'
 import Image from 'next/image'
 
-import magicCode from './3x+1'
+import magicCode from '../components/3x+1'
 
 import styles from '../styles/Home.module.css'
 
